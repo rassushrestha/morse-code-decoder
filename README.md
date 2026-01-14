@@ -24,10 +24,4 @@ java MorseCodeDecoder
 Input: .... . .-.. .-.. ---
 Output: HELLO
 ```
-```
-
-4. Save (Command + S)
-5. Click commit button (green checkmark)
-6. Check `README.md`, type message: `Add README file`
-7. Click **"Commit and Push"** → **"Push"**
 
