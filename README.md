@@ -15,8 +15,8 @@ Binary tree-based decoder that translates Morse code sequences into English text
 
 ## How to Run
 ```bash
-javac MorseCodeDecoder.java
-java MorseCodeDecoder
+javac MorseDecoder.java
+java MorseDecoder
 ```
 
 ## Example Usage
